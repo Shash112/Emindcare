@@ -31,7 +31,7 @@ dependencies:
   flutter:
     sdk: flutter
   ikchatbot: ^1.0.5
-  fl_chart: ^0.40.0
+  fl_chart: ^0.69.2
   sqflite: ^2.2.0+4
   path: ^1.8.0
 
@@ -75,6 +75,7 @@ flutter:
       -  Asset/mentalheath.jpg
       -  Asset/loginimage.jpeg
       -  Asset/splashimage.jpg
+      -  Asset/
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/to/resolution-aware-images

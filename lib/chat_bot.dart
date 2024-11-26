@@ -42,7 +42,7 @@ class ChatBotScreen extends StatelessWidget {
       initialGreeting: "Hello! Welcome to EmindCareBot.\nHow can I assist you today?",
       defaultResponse: defaultResponse, // Use the default response from the file
       inputHint: 'Send a message',
-      waitingText: 'Please wait...', backgroundImage: 'Asset/mentalheath.jpg', inactivityMessage: '', closingMessage: '', useAsset: true, backgroundAssetimage: '',
+      waitingText: 'Please wait...', backgroundImage: 'Asset/mentalheath.jpg', inactivityMessage: '', closingMessage: '', useAsset: true, backgroundAssetimage: 'Asset/mentalheath.jpg',
     );
 
     return Scaffold(
